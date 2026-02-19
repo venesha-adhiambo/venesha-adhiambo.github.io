@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello, I am **Venesha Ochieng**, a Cloud and Network Security professional with a strong foundation in fixed network engineering, cloud infrastructure, and emerging technologies such as Artificial Intelligence and Data Science. My experience spans traditional network design and deployment through to modern cloud-based architectures, with a strong emphasis on security, scalability, and operational efficiency.
+Hello, I am **Venesha Ochieng**, a Cloud and Network Security enthusiast.
 - Cloud computing fundamentals, including compute, storage, networking, and databases
 - Cloud security principles and shared responsibility model
 - Network security across OSI layers, including firewalls and access control
