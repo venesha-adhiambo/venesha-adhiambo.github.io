@@ -1,6 +1,6 @@
 ---
 title: "Examining Network Layers 1,2&3"
-date: 2026-02-20 17:31:17 +0300
+date: 2026-02-20 17:40:17 +0300
 categories: [Networking]
 tags: [cisco, packet-tracer]
 ---
