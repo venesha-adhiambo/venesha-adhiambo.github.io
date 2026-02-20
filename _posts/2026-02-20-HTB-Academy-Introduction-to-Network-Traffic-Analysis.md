@@ -14,4 +14,7 @@ Network Traffic Analysis (NTA) is the practice of examining network traffic to u
 The HTB Academy: Introduction to Network Traffic Analysis provides a comprehensive overview of network traffic analysis, covering both theoretical principles and hands-on practice using tools such as tcpdump and Wireshark. 
 It explains the purpose of Network Traffic Analysis (NTA) in detecting anomalies, troubleshooting network issues, and identifying potential security threats, supported by foundational networking concepts across the OSI and TCP/IP models. 
 The work details the structured traffic analysis workflow, from traffic ingestion and filtering to anomaly detection and response, and demonstrates practical application through packet captures, filtering techniques, and protocol analysis. 
-ThE assignment also highlights real-world scenarios such as web traffic analysis, suspicious port detection, user activity investigation, and encrypted session handling, ultimately reinforcing the importance of visibility, methodical analysis, and tool proficiency in maintaining secure and reliable network environments.
+The assignment also highlights real-world scenarios such as web traffic analysis, suspicious port detection, user activity investigation, and encrypted session handling, ultimately reinforcing the importance of visibility, methodical analysis, and tool proficiency in maintaining secure and reliable network environments.
+
+## Course Completion
+![Course completion](/assets/HackTheBox.png) {: width="600")
