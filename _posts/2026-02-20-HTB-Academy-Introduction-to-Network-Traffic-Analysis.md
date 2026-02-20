@@ -4,7 +4,7 @@ date: 2026-02-20 18:41:28 +0300
 categories: [Networking, Cybersecurity]
 tags: [wireshark, cybersecurity, traffic analysis]
 image:
-path: /assets/HackTheBox.png
+path: /assets/hackthebox.png
 width: 1200
 height: 630
 ---
@@ -17,4 +17,4 @@ The work details the structured traffic analysis workflow, from traffic ingestio
 The assignment also highlights real-world scenarios such as web traffic analysis, suspicious port detection, user activity investigation, and encrypted session handling, ultimately reinforcing the importance of visibility, methodical analysis, and tool proficiency in maintaining secure and reliable network environments.
 
 ## Course Completion
-![Course completion](/assets/HackTheBox.png) {: width="600")
+![Course completion](/assets/hackthebox.png) {: width="600")
