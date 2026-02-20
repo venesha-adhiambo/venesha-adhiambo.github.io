@@ -1,8 +1,8 @@
 ---
 title: "Examining Network Layers 1,2&3"
-date: 2026-02-20 17:40:17 +0300
+date: 2026-02-20 17:43:18 +0300
 categories: [Networking]
-tags: [cisco, packet-tracer]
+tags: [osi-model, cisco, packet-tracer]
 ---
 
 OSI model gives guidelines on how communication needs to be done.
