@@ -2,7 +2,7 @@
 title: "Examining Network Layers 1,2&3"
 date: 2026-02-20 17:31:17 +0300
 categories: [Networking]
-tags: [xss, sql-injection, csrf]
+tags: [cisco, packet-tracer]
 ---
 
 OSI model gives guidelines on how communication needs to be done.
