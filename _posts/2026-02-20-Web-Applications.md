@@ -1,5 +1,5 @@
 ---
-title: "2026-02-20-Web-Applications.md"
+title: "Introduction to Web Applications"
 date: 2026-02-20 17:43:18 +0300
 categories: [Cybersecurity, Web]
 tags: [html, css, javasript, html-injection,xss,csrf]
