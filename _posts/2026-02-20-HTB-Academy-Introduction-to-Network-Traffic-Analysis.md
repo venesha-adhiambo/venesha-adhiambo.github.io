@@ -1,7 +1,7 @@
 ---
 title: "HTB Academy: Introduction to Network Traffic Analysis"
 date: 2026-02-20 18:41:28 +0300
-categories: [Networking]
+categories: [Networking, Cybersecurity]
 tags: [wireshark, cybersecurity, traffic analysis]
 image:
 path: /assets/HackTheBox.png
